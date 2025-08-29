@@ -1,5 +1,6 @@
 
 OVERVIEW
+
 This project analyzes retail sales data to uncover trends, customer purchasing behavior, and product performance. The goal is to provide insights that can help businesses improve decision-making, boost sales, and optimize inventory management.
 
 Objectives
