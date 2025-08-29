@@ -15,6 +15,7 @@ Provide actionable recommendations to improve sales strategy.
 
 Tools & Technologies
 
+
 SQL (for querying and aggregating sales data)
 
 Power BI / Tableau (for interactive dashboards)
